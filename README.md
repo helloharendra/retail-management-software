@@ -12,6 +12,22 @@ Whether you need an ERP system for manufacturing, distribution, retail, educatio
 
 ---
 
+<!-- screenshots -->
+## Screenshots
+
+**Dashboard**
+
+![Dashboard](screenshots/1-dashboard.png)
+
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Stores</b><br><br><img src="screenshots/2-stores.png" alt="Stores"></td>
+    <td align="center" width="50%"><b>Customers</b><br><br><img src="screenshots/3-customers.png" alt="Customers"></td>
+  </tr>
+</table>
+
+---
+
 ## What Is ERP Software?
 
 ERP (Enterprise Resource Planning) software is an integrated business management system that connects multiple departments and business functions through a centralized platform.
@@ -258,17 +274,3 @@ This repository represents the ERP software development services and solution ca
 It is intended as a project and service showcase. It does not grant permission to redistribute, commercially use, or reproduce proprietary source code, designs, or intellectual property.
 
 For licensing or commercial enquiries, contact Naya Prayog Technologies.
-
-<!-- screenshots -->
-## Screenshots
-
-**Dashboard**
-
-![Dashboard](screenshots/1-dashboard.png)
-
-<table>
-  <tr>
-    <td align="center" width="50%"><b>Stores</b><br><br><img src="screenshots/2-stores.png" alt="Stores"></td>
-    <td align="center" width="50%"><b>Customers</b><br><br><img src="screenshots/3-customers.png" alt="Customers"></td>
-  </tr>
-</table>
